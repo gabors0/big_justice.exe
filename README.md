@@ -1,5 +1,5 @@
 # big_justice.EXE
-### (harmless)
+### (harmless) - Download in releases
 
 scary
 
